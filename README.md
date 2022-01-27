@@ -71,7 +71,7 @@ Welcome to submit Dio's third-party plugins and related libraries [here](https:/
 
 - [Sending FormData](#sending-formdata)
 
-- [Transformer](#Transformer)
+- [Transformer](#transformer)
 
 - [Set proxy and HttpClient config](#set-proxy-and-httpclient-config)
 
